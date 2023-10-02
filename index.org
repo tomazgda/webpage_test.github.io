@@ -1,0 +1,13 @@
+#+title: You Have
+#+subtitle: A Cute Cat.
+#+options: toc:nil num:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+
+* However,
+** ↓ Cat In A Box ↓
+
+#+ATTR_HTML: :width 400px
+[[./cat_in_box.jpg]]
+
+
